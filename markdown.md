@@ -5,6 +5,6 @@
 
 -----------------
 ## Second headings
--this is a bullet
--another example
+*this is a bullet
+*another example
 
