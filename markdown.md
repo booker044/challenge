@@ -5,6 +5,6 @@
 
 -----------------
 ## Second headings
-*this is a bullet
-*another example
+This is **bold**
 
+This is *italic*
